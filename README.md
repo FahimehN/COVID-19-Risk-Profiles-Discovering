@@ -1,1 +1,1 @@
-# COVID-19-subtypes-Discovering
+# COVID-19-Subtypes-Discovering
